@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajadigvijaysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajadigvijaysingh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajadigvisxms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajadigvisxms" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/im_raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajadigvisxms" height="30" width="40" /></a>
 <a href="https://discord.gg/im_raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="im_raja" height="30" width="40" /></a>
 </p> <br>
 <h3 align="left">Languages and Tools:</h3>
